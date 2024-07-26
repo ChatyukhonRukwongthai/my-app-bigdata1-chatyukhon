@@ -14,7 +14,7 @@ export default function Navbar() {
             </div> */}
             <ul className="hidden md:flex items-center text-[16px] font-semibold pr-10">
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">หลักสูตรรัฐประศาสนศาสตร์</a>
+                <a href="/hero">หลักสูตรรัฐประศาสนศาสตร์</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="/getapp">หน้าหลัก</a>
@@ -29,7 +29,7 @@ export default function Navbar() {
                 <a href="/evaluation">การประเมินนโยบายสาธารณะ</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
-                <a href="#">ChatGPT</a>
+                <a href="/chatgpt">ChatGPT</a>
               </li>
               <li className="text-stone-600 hover:text-blue-600 hover:font-bold font-medium mx-4 my-1">
                 <a href="#">ทีมงาน</a>
